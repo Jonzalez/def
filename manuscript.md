@@ -1,7 +1,7 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
+- Jonathan Gonzalez
+- null
 bibliography:
 - content/manual-references.json
 date-meta: '2020-05-05'
@@ -15,13 +15,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="The role of defensins in cancer" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="The role of defensins in cancer" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="The role of defensins in cancer" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="The role of defensins in cancer" />
 
   <meta name="dc.date" content="2020-05-05" />
 
@@ -39,15 +39,15 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Jonathan Gonzalez" />
 
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
 
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
 
-  <meta name="twitter:creator" content="@johndoe" />
+  <meta name="twitter:creator" content="@None" />
 
-  <meta name="citation_author" content="Jane Roe" />
+  <meta name="citation_author" content="None" />
 
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Jonzalez.github.io/def/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Jonzalez.github.io/def/v/b3408602e9f8c1d3db02771010e49a80ab291a1e/" />
+  <link rel="alternate" type="text/html" href="https://Jonzalez.github.io/def/v/b61b2f8ce49588fb80c1e6b992f49ab80b0aa3ec/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Jonzalez.github.io/def/v/b3408602e9f8c1d3db02771010e49a80ab291a1e/" />
+  <meta name="manubot_html_url_versioned" content="https://Jonzalez.github.io/def/v/b61b2f8ce49588fb80c1e6b992f49ab80b0aa3ec/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Jonzalez.github.io/def/v/b3408602e9f8c1d3db02771010e49a80ab291a1e/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Jonzalez.github.io/def/v/b61b2f8ce49588fb80c1e6b992f49ab80b0aa3ec/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -93,7 +93,7 @@ manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: The role of defensins in cancer
 ...
 
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://Jonzalez.github.io/def/v/b3408602e9f8c1d3db02771010e49a80ab291a1e/))
+([permalink](https://Jonzalez.github.io/def/v/b61b2f8ce49588fb80c1e6b992f49ab80b0aa3ec/))
 was automatically generated
-from [Jonzalez/def@b340860](https://github.com/Jonzalez/def/tree/b3408602e9f8c1d3db02771010e49a80ab291a1e)
+from [Jonzalez/def@b61b2f8](https://github.com/Jonzalez/def/tree/b61b2f8ce49588fb80c1e6b992f49ab80b0aa3ec)
 on May 5, 2020.
 </em></small>
 
@@ -113,23 +113,19 @@ on May 5, 2020.
 
 
 
-+ **John Doe**<br>
++ **Jonathan Gonzalez**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [Jonzalez](https://github.com/Jonzalez)<br>
   <small>
      Department of Something, University of Whatever
      · Funded by Grant XXXXXXXX
   </small>
 
-+ **Jane Roe**<br>
++ **None**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)<br>
   <small>
      Department of Something, University of Whatever; Department of Whatever, University of Something
   </small>

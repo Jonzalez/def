@@ -1,6 +1,6 @@
 {
   "pandoc": {
-    "title": "Manuscript Title",
+    "title": "The role of defensins in cancer",
     "keywords": [
       "markdown",
       "publishing",
@@ -9,10 +9,10 @@
     "lang": "en-US",
     "date-meta": "2020-05-05",
     "author-meta": [
-      "John Doe",
-      "Jane Roe"
+      "Jonathan Gonzalez",
+      null
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2020-05-05\" />\n<meta name=\"citation_publication_date\" content=\"2020-05-05\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://Jonzalez.github.io/def/\" />\n<meta property=\"og:url\" content=\"https://Jonzalez.github.io/def/\" />\n<meta property=\"twitter:url\" content=\"https://Jonzalez.github.io/def/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://Jonzalez.github.io/def/\" />\n<meta name=\"citation_pdf_url\" content=\"https://Jonzalez.github.io/def/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://Jonzalez.github.io/def/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://Jonzalez.github.io/def/v/b3408602e9f8c1d3db02771010e49a80ab291a1e/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://Jonzalez.github.io/def/v/b3408602e9f8c1d3db02771010e49a80ab291a1e/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://Jonzalez.github.io/def/v/b3408602e9f8c1d3db02771010e49a80ab291a1e/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"The role of defensins in cancer\" />\n<meta name=\"citation_title\" content=\"The role of defensins in cancer\" />\n<meta property=\"og:title\" content=\"The role of defensins in cancer\" />\n<meta property=\"twitter:title\" content=\"The role of defensins in cancer\" />\n<meta name=\"dc.date\" content=\"2020-05-05\" />\n<meta name=\"citation_publication_date\" content=\"2020-05-05\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Jonathan Gonzalez\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@None\" />\n<meta name=\"citation_author\" content=\"None\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://Jonzalez.github.io/def/\" />\n<meta property=\"og:url\" content=\"https://Jonzalez.github.io/def/\" />\n<meta property=\"twitter:url\" content=\"https://Jonzalez.github.io/def/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://Jonzalez.github.io/def/\" />\n<meta name=\"citation_pdf_url\" content=\"https://Jonzalez.github.io/def/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://Jonzalez.github.io/def/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://Jonzalez.github.io/def/v/b61b2f8ce49588fb80c1e6b992f49ab80b0aa3ec/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://Jonzalez.github.io/def/v/b61b2f8ce49588fb80c1e6b992f49ab80b0aa3ec/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://Jonzalez.github.io/def/v/b61b2f8ce49588fb80c1e6b992f49ab80b0aa3ec/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -25,12 +25,12 @@
     "date": "May 5, 2020",
     "authors": [
       {
-        "github": "johndoe",
-        "name": "John Doe",
+        "github": "Jonzalez",
+        "name": "Jonathan Gonzalez",
         "initials": "JD",
         "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "twitter": "johndoe",
-        "email": "john.doe@something.com",
+        "twitter": null,
+        "email": "jonzalez@gmail.com",
         "affiliations": [
           "Department of Something, University of Whatever"
         ],
@@ -42,19 +42,16 @@
         ]
       },
       {
-        "github": "janeroe",
-        "name": "Jane Roe",
-        "initials": "JR",
+        "github": null,
+        "name": null,
+        "initials": null,
         "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "email": "jane.roe@whatever.edu",
+        "email": null,
         "affiliations": [
           "Department of Something, University of Whatever",
           "Department of Whatever, University of Something"
         ],
-        "affiliation_numbers": [
-          1,
-          2
-        ]
+        "affiliation_numbers": []
       }
     ],
     "affiliations": [
@@ -72,15 +69,15 @@
       "repo_slug": "Jonzalez/def",
       "repo_owner": "Jonzalez",
       "repo_name": "def",
-      "commit": "b3408602e9f8c1d3db02771010e49a80ab291a1e",
-      "triggering_commit": "b3408602e9f8c1d3db02771010e49a80ab291a1e",
-      "build_url": "https://github.com/Jonzalez/def/commit/b3408602e9f8c1d3db02771010e49a80ab291a1e/checks",
+      "commit": "b61b2f8ce49588fb80c1e6b992f49ab80b0aa3ec",
+      "triggering_commit": "b61b2f8ce49588fb80c1e6b992f49ab80b0aa3ec",
+      "build_url": "https://github.com/Jonzalez/def/commit/b61b2f8ce49588fb80c1e6b992f49ab80b0aa3ec/checks",
       "job_url": "https://github.com/Jonzalez/def/runs/run3"
     },
     "html_url": "https://Jonzalez.github.io/def/",
     "pdf_url": "https://Jonzalez.github.io/def/manuscript.pdf",
-    "html_url_versioned": "https://Jonzalez.github.io/def/v/b3408602e9f8c1d3db02771010e49a80ab291a1e/",
-    "pdf_url_versioned": "https://Jonzalez.github.io/def/v/b3408602e9f8c1d3db02771010e49a80ab291a1e/manuscript.pdf",
+    "html_url_versioned": "https://Jonzalez.github.io/def/v/b61b2f8ce49588fb80c1e6b992f49ab80b0aa3ec/",
+    "pdf_url_versioned": "https://Jonzalez.github.io/def/v/b61b2f8ce49588fb80c1e6b992f49ab80b0aa3ec/manuscript.pdf",
     "manubot_version": "0.3.1",
     "rootstock_commit": "92f0285a37636017e0a3e231bb64e414b8a0cfb5",
     "manuscript_stats": {
