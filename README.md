@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/Jonzalez/def/tree/gh-pages) branch hosts the contents of this directory at <https://Jonzalez.github.io/def/>.
-The permalink for this webpage version is <https://Jonzalez.github.io/def/v/391573ec7c10770ed0c7211ca1f4f18c6e970650/>.
+The permalink for this webpage version is <https://Jonzalez.github.io/def/v/ac7d846b7e7bd62403181225607bf39b96ef93d5/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://Jonzalez.github.io/def/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`391573ec7c10770ed0c7211ca1f4f18c6e970650`](https://github.com/Jonzalez/def/commit/391573ec7c10770ed0c7211ca1f4f18c6e970650).
+[`ac7d846b7e7bd62403181225607bf39b96ef93d5`](https://github.com/Jonzalez/def/commit/ac7d846b7e7bd62403181225607bf39b96ef93d5).
