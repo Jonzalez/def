@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Jonzalez.github.io/def/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Jonzalez.github.io/def/v/391573ec7c10770ed0c7211ca1f4f18c6e970650/" />
+  <link rel="alternate" type="text/html" href="https://Jonzalez.github.io/def/v/ac7d846b7e7bd62403181225607bf39b96ef93d5/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Jonzalez.github.io/def/v/391573ec7c10770ed0c7211ca1f4f18c6e970650/" />
+  <meta name="manubot_html_url_versioned" content="https://Jonzalez.github.io/def/v/ac7d846b7e7bd62403181225607bf39b96ef93d5/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Jonzalez.github.io/def/v/391573ec7c10770ed0c7211ca1f4f18c6e970650/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Jonzalez.github.io/def/v/ac7d846b7e7bd62403181225607bf39b96ef93d5/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: The role of defensins in cancer
 
 <small><em>
 This manuscript
-([permalink](https://Jonzalez.github.io/def/v/391573ec7c10770ed0c7211ca1f4f18c6e970650/))
+([permalink](https://Jonzalez.github.io/def/v/ac7d846b7e7bd62403181225607bf39b96ef93d5/))
 was automatically generated
-from [Jonzalez/def@391573e](https://github.com/Jonzalez/def/tree/391573ec7c10770ed0c7211ca1f4f18c6e970650)
+from [Jonzalez/def@ac7d846](https://github.com/Jonzalez/def/tree/ac7d846b7e7bd62403181225607bf39b96ef93d5)
 on May 6, 2020.
 </em></small>
 
