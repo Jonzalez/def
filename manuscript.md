@@ -4,7 +4,7 @@ author-meta:
 - null
 bibliography:
 - content/manual-references.json
-date-meta: '2020-05-05'
+date-meta: '2020-05-06'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="The role of defensins in cancer" />
 
-  <meta name="dc.date" content="2020-05-05" />
+  <meta name="dc.date" content="2020-05-06" />
 
-  <meta name="citation_publication_date" content="2020-05-05" />
+  <meta name="citation_publication_date" content="2020-05-06" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Jonzalez.github.io/def/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Jonzalez.github.io/def/v/904f509a246e4ade73b8f4b334bb533bd9fdfad4/" />
+  <link rel="alternate" type="text/html" href="https://Jonzalez.github.io/def/v/40068bb80dfbf768a5efa9298bcee8b606e0f867/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Jonzalez.github.io/def/v/904f509a246e4ade73b8f4b334bb533bd9fdfad4/" />
+  <meta name="manubot_html_url_versioned" content="https://Jonzalez.github.io/def/v/40068bb80dfbf768a5efa9298bcee8b606e0f867/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Jonzalez.github.io/def/v/904f509a246e4ade73b8f4b334bb533bd9fdfad4/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Jonzalez.github.io/def/v/40068bb80dfbf768a5efa9298bcee8b606e0f867/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,10 +103,10 @@ title: The role of defensins in cancer
 
 <small><em>
 This manuscript
-([permalink](https://Jonzalez.github.io/def/v/904f509a246e4ade73b8f4b334bb533bd9fdfad4/))
+([permalink](https://Jonzalez.github.io/def/v/40068bb80dfbf768a5efa9298bcee8b606e0f867/))
 was automatically generated
-from [Jonzalez/def@904f509](https://github.com/Jonzalez/def/tree/904f509a246e4ade73b8f4b334bb533bd9fdfad4)
-on May 5, 2020.
+from [Jonzalez/def@40068bb](https://github.com/Jonzalez/def/tree/40068bb80dfbf768a5efa9298bcee8b606e0f867)
+on May 6, 2020.
 </em></small>
 
 ## Authors
